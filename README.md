@@ -10,8 +10,14 @@ DashBoard Using:
 
 1 - Interactive part
 
+  1.1 - Portfolio Selection
+  
+  1.2 - method of rebalancing 
+  
+  1.3 - Rebalancing value 
 
 2- Metrics Overview
+
 
 
 3- Plots and charts 
