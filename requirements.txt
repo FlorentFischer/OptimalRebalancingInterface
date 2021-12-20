@@ -1,8 +1,21 @@
-numpy==1.19.2
-pandas==1.0.1
-plotly==4.14.3
-dash==1.20.0
-dash-core-components==1.16.0
-dash-html-components==1.1.3
+Optimal portfolio rebalancing work notebook:
 
-matplotlib==3.1.3
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+from matplotlib import cycler
+
+
+Web-app required components:
+
+import numpy as np
+import pandas as pd
+import warnings
+warnings.filterwarnings("ignore")
+import plotly.graph_objs as go
+import plotly.express as px
+import dash
+import dash_html_components as html
+import dash_core_components as dcc
+from dash.dependencies import Input, Output
