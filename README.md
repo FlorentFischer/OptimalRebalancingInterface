@@ -1,4 +1,4 @@
-# OptimalRebalancingInterface
+# Optimal Rebalancing Interface
 
 This GitHub repository is constitued of the code structure necessary for optimal rebalancing dashboard deployment (py file for the webapp deployment and ipynb file for a local dashboard deployment), a file with all libraries required and this ReadMe file that gives you indications about this repository.
 
