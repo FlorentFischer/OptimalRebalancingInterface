@@ -26,25 +26,25 @@ ________________________________________________________________________________
 >>> Fixed interval rebalancing: Take integer values for the rebalancing, in a range of 1 to 36 or over. (limit is the period length) 
 
 
->>> Absolute weights deviation: Take decimal values for the rebalancing, in a range of [0 ; 0.1 ; 0.2 ; 0.3 ; 0.4 ; 0.5 ; 0.6 ; 0.7 ; 0.8 ; 0.9 ; 1]
+>>> Absolute weights deviation: Take decimal values for the rebalancing, in a range of [0; 0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1]
 
 
->>> Relative weights deviation: Take decimal values for the rebalancing, in a range of [0 ; 0.1 ; 0.2 ; 0.3 ; 0.4 ; 0.5 ; 0.6 ; 0.7 ; 0.8 ; 0.9 ; 1]
+>>> Relative weights deviation: Take decimal values for the rebalancing, in a range of [0; 0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1]
 
 
->>> Tracking Error deviation: Take decimal values for the rebalancing
+>>> Tracking Error deviation: Take decimal values for the rebalancing, in a range of [0; 0.0025; 0.005; 0.0075; 0.01; 0.0125; 0.015; 0.0175; 0.02; 0.0225; 0.025; 0.0275; 0.03; 0.0325; 0.035]
 
 
->>> Tracking Error and cost deviation: Take decimal values for the rebalancing
+>>> Tracking Error and cost deviation: Take decimal values for the rebalancing in a range of [0; 0.0025; 0.005; 0.0075; 0.01; 0.0125; 0.015; 0.0175; 0.02; 0.0225; 0.025; 0.0275; 0.03; 0.0325; 0.035]
 
 
->>> Momentum 4-months: Take decimal values for the rebalancing
+>>> Momentum 4-months: Take decimal values for the rebalancing in a range of [0; 0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1; 1.1; 1.2; 1.3; 1.4; 1.5; 1.6; 1.7; 1.8; 1.9]
 
 
->>> Momentum 7-months: Take decimal values for the rebalancing
+>>> Momentum 7-months: Take decimal values for the rebalancing in a range of [0; 0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1; 1.1; 1.2; 1.3; 1.4; 1.5; 1.6; 1.7; 1.8; 1.9]
 
 
->>> Momentum 13-months: Take decimal values for the rebalancing
+>>> Momentum 13-months: Take decimal values for the rebalancing in a range of [0; 0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1; 1.1; 1.2; 1.3; 1.4; 1.5; 1.6; 1.7; 1.8; 1.9]
 
 
 
@@ -56,6 +56,13 @@ The metrics presented are: annual tracking error, annual rebalancing cost value,
 
 ## 3- Plots and charts 
 
+> Cumulative returns of portfolio and benchmark:
+
+> Portfolio weights variations:
+
+> Benchmark weights répartition:
+
+> Monthly returns of the portfolio and the benchmark:
 
 
 # Jupyter NoteBook for local deployment:
