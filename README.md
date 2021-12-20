@@ -56,13 +56,21 @@ The metrics presented are: annual tracking error, annual rebalancing cost value,
 
 ## 3- Plots and charts 
 
-> Cumulative returns of portfolio and benchmark:
+> **Cumulative returns of portfolio and benchmark:**
 
-> Portfolio weights variations:
+> This plot show the cumulative returns of the benchmark and also the cumulative returns of the portfolio. This cumulative returns plot include the trasaction costs when a portfolio rebalancing occurs. 
 
-> Benchmark weights répartition:
+> **Portfolio weights variations:**
 
-> Monthly returns of the portfolio and the benchmark:
+> This plot will show you the portfolio weights of each assets in the portfolio. It allows you to highlight when portfolio rebalancing occurs with small steep pikes in allocations that reach the initial optimal allocation.
+
+> **Benchmark weights allocation:**
+
+> This pie chart plot will show you the benchmark weight allocation, the weights defined as optimal according to pictet LPP products. For general LPP-40 the repartition provided is 40% stocks and 60% bonds. You can click on a precise sector if you want to zoom on their components. 
+
+> **Monthly returns of the portfolio and the benchmark:**
+
+> On this barplot you can see the monthly returns of the benchmark and also the monthly returns of the portfolio. So you can easily compare them
 
 
 # Jupyter NoteBook for local deployment:
