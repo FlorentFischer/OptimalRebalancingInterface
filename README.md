@@ -80,14 +80,14 @@ The metrics presented are annual tracking error, annual rebalancing cost value, 
 
 # Jupyter NoteBook for local deployment:
 
-The easiest way to deploy the dashboard locally is to use an IDE such as Jupyter Notebook. You will just have to launch the "" code file in your Jupyter environment without forgetting to include the right dataset path in the data import part. Then you just have to launch the cells one after one. When the last cell is launched, a local deployment link should appear. You will just have to click on it to have local access to the dashboard functionality.  
+The easiest way to deploy the dashboard locally is to use an IDE such as Jupyter Notebook. You will just have to launch the "OPR_Dashboard.ipynb" code file in your Jupyter environment without forgetting to include the right dataset path in the data import part. Then you just have to launch the cells one after one. When the last cell is launched, a local deployment link should appear. You will just have to click on it to have local access to the dashboard functionality.  
 
 Required libraries for local deployment are available in the file: ""
 
 
 # Webapp Dashboard Hosting:
 
-To deploy the dashboard globally on the internet, we used the site "https://www.pythonanywhere.com/" which allows to host a web site built in python. Concerning the technical part of this global deployment, we have only used the flask library on pythonanywhere, and we also implemented some technical manipulation on the pythonanywhere terminal but we will not go on precise details for this kind of manipulations. For this global deployment, we have used the same dataset but with a modified format ".xls" and not the ".xlsx" one. We have also used the file ""
+To deploy the dashboard globally on the internet, we used the site "https://www.pythonanywhere.com/" which allows to host a web site built in python. Concerning the technical part of this global deployment, we have only used the flask library on pythonanywhere, and we also implemented some technical manipulation on the pythonanywhere terminal but we will not go on precise details for this kind of manipulations. For this global deployment, we have used the same dataset but with a modified format ".xls" and not the ".xlsx" one. We have also used the file "OPR_Dashboard.py"
 
 
 
