@@ -96,7 +96,7 @@ To deploy the dashboard globally on the internet, we used the site "https://www.
 We have also put at your disposal in this GitHub repository the Jupyter Notebook of the research work. It is the main Jupyter Notebook that contains every precise part of the project and provides all results of the project. The file name is the following one: 
 
 
-You can also have access to this project Notebook on Google Colab: 
+You can also have access to this project Notebook on Google Colab: https://colab.research.google.com/drive/1TS-nNZNYLjLJ5VLVFxpeYcwLsh4G22Nl?usp=sharing
 
 
 
