@@ -82,7 +82,7 @@ The metrics presented are annual tracking error, annual rebalancing cost value, 
 
 The easiest way to deploy the dashboard locally is to use an IDE such as Jupyter Notebook. You will just have to launch the "OPR_Dashboard.ipynb" code file in your Jupyter environment without forgetting to include the right dataset path in the data import part. Then you just have to launch the cells one after one. When the last cell is launched, a local deployment link should appear. You will just have to click on it to have local access to the dashboard functionality.  
 
-Required libraries for local deployment are available in the file: ""
+Required libraries for local deployment are available in the file: "requirements.txt"
 
 
 # Webapp Dashboard Hosting:
@@ -95,6 +95,7 @@ To deploy the dashboard globally on the internet, we used the site "https://www.
 
 We have also put at your disposal in this GitHub repository the Jupyter Notebook of the research work. It is the main Jupyter Notebook that contains every precise part of the project and provides all results of the project. The file name is the following one: 
 
+Required libraries for project Notebook are available in the file: "requirements.txt"
 
 You can also have access to this project Notebook on Google Colab: https://colab.research.google.com/drive/1TS-nNZNYLjLJ5VLVFxpeYcwLsh4G22Nl?usp=sharing
 
