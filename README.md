@@ -93,7 +93,7 @@ To deploy the dashboard globally on the internet, we used the site "https://www.
 
 # Project work: 
 
-We have also put at your disposal in this GitHub repository the Jupyter Notebook of the research work. It is the main Jupyter Notebook that contains every precise part of the project and provides all results of the project. The file name is the following one: 
+We have also put at your disposal in this GitHub repository the Jupyter Notebook of the research work. It is the main Jupyter Notebook that contains every precise part of the project and provides all results of the project. The file name is the following one: "QARM_II_Project_Work(Group3).ipynb"
 
 Required libraries for project Notebook are available in the file: "requirements.txt"
 
